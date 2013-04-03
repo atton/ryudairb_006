@@ -3,7 +3,7 @@ Ryudai.rb #6
 ## ソースとか
 このREADMEは[github](https://github.com/atton-/ryudairb_006)にあります
 
-@tompng さんの [lisp2.rb](https://gist.github.com/tompng/5222780)
+@tompng さんの [lisp2.rb](https://gist.github.com/tompng/5222780) (オリジナル)
 
 私の [lisp.rb](https://gist.github.com/atton-/5300354)
 
